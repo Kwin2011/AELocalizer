@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AS-ESE2505001-263">
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Repeat this steps [1 to 7] then for all floors. Once all done click on &quot;Done&quot;">Repeat this steps [1 to 7] then for all floors. Once all done click on "Done"</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="If the commissioned floor is successful then the Blue tooth Icon in the App turns to Green.">If the commissioned floor is successful then the Blue tooth Icon in the App turns to Green.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="If it is correct, Continue with the Confirm Button.">If it is correct, Continue with the Confirm Button.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Check if the floor and side is correct.">Check if the floor and side is correct.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Once the BLE beacon has been discovered it can be selected and click to &quot;Assign&quot; 2">Once the BLE beacon has been discovered it can be selected and click to "Assign"</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Once the BLE beacon has been discovered it can be selected and click to &quot;Assign&quot;">Once the BLE beacon has been discovered it can be selected and click to "Assign"</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Then click Done">Then click Done</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="For the integrated BLE module, 15 Seconds just after the teaching is done on the LOP the BLE module is triggered into commissioning mode. Select it.">For the integrated BLE module, 15 Seconds just after the teaching is done on the LOP the BLE module is triggered into commissioning mode. Select it.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Activation of Fl X 500/600 LOP BLE Beacon to Commissioning mode.">Activation of Fl X 500/600 LOP BLE Beacon to Commissioning mode.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="To configure the BLE, please bring the LOP into teaching mode, as per chapter 4 of this eLearning,">To configure the BLE, please bring the LOP into teaching mode, as per chapter 4 of this eLearning,</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Then go ahead with &quot;Continue&quot;">Then go ahead with "Continue"</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Check Equipment information on the app">Check Equipment information on the app</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Then Click &quot;Confirm&quot;">Then Click "Confirm"</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Enter here the Equipment number of this elevator Manually or scan it.">Enter here the Equipment number of this elevator Manually or scan it.</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Click here on ElevateMe Commissioning 2">Click here on ElevateMe Commissioning</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Click here on ElevateMe Commissioning">Click here on ElevateMe Commissioning</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Click on procedures">Click on procedures</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="On the Overview screen">On the Overview screen</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="iSpeci">iSpeci</layer>
+</composition>
+<composition name="Activation of FI X 500 LOP BLE Beacon to Comm mode_2025-05">
+  <layer name="Start the mobile app,">Start the mobile app,</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Commissioning done, finish with left upper arrow or close the iSpeci">Commissioning done, finish with left upper arrow or close the iSpeci</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="To proceed click on &quot;Finish&quot;">To proceed click on "Finish"</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Once the changes are applied, iSpeci indicates that as successful.">Once the changes are applied, iSpeci indicates that as successful.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Please Check and change all the parameters according to your needs and then click on &quot;Configure&quot;.">Please Check and change all the parameters according to your needs and then click on "Configure".</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Hence these steps can be used as verification to check if the communication towards the display is working proper.">Hence these steps can be used as verification to check if the communication towards the display is working proper.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="These steps are performed directly through the network towards the device.">These steps are performed directly through the network towards the device.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Link screen is successful, Click on Serial number to configure. 2">Link screen is successful, Click on Serial number to configure.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Link screen is successful, Click on Serial number to configure.">Link screen is successful, Click on Serial number to configure.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="To restart the display disconnect the power plug behind the COP.">To restart the display disconnect the power plug behind the COP.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="The QR code is only shown 1 hour after start. If QR code is not showing on a unconfigured device, restart the screen, then Scan the QR code.">The QR code is only shown 1 hour after start. If QR code is not showing on a unconfigured device, restart the screen, then Scan the QR code.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Scan the QR code which is shown on the COP screen.">Scan the QR code which is shown on the COP screen.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Click on &quot;Link Screen Device&quot;.">Click on "Link Screen Device".</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Then go ahead with &quot;Continue&quot;">Then go ahead with "Continue"</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Check on this screen if equipment number, address and location are correct.">Check on this screen if equipment number, address and location are correct.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Then Click &quot;Confirm&quot;">Then Click "Confirm"</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="In Screen Configuration enter the Equipment number of this elevator Manually or scan it.">In Screen Configuration enter the Equipment number of this elevator Manually or scan it.</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="In Procedures Click on Screen Configuration 2">In Procedures Click on Screen Configuration</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="In Procedures Click on Screen Configuration">In Procedures Click on Screen Configuration</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Click on procedures">Click on procedures</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="On the Overview screen ">On the Overview screen</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="iSpeci">iSpeci</layer>
+</composition>
+<composition name="Commissioning of FI X 500 COP CMS display_2025-05">
+  <layer name="Start the mobile app, ">Start the mobile app,</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="The configuration is Completed.">The configuration is Completed.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="This can take up to 5 minutes.">This can take up to 5 minutes.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="The numbers are written onto the ETMA.">The numbers are written onto the ETMA.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In case the alarm calls should go directly to the customer, adapt them, else proceed.">In case the alarm calls should go directly to the customer, adapt them, else proceed.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="The default numbers are loaded.">The default numbers are loaded.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Make sure the Module Number matches to the Lift ID">Make sure the Module Number matches to the Lift ID</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Select TeleAlarm El.">Select TeleAlarm El.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected. 2">Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected.">Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Click on the lower right arrow and proceed.">Click on the lower right arrow and proceed.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In case of an ETMA installed, ADD TELEALARM and Proceed.">In case of an ETMA installed, ADD TELEALARM and Proceed.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="1st step CUBE Configuration is Done.">1st step CUBE Configuration is Done.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Please wait for configuration to get completed">Please wait for configuration to get completed</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Enable the Display devices in order to enable the display function within the Cube.">Enable the Display devices in order to enable the display function within the Cube.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="ETM Detect Modem Success is expected, if failed, check the connection to the ETMA. 2">ETM Detect Modem Success is expected, if failed, check the connection to the ETMA.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In Commands ETM Detect mode &quot;OK&quot;">In Commands ETM Detect mode "OK"</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In the Main Menu go to Commands.">In the Main Menu go to Commands.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Log in on the SMLCD. 2">Log in on the SMLCD.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Modem detection for ETMA.">Modem detection for ETMA.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Once the elevator has been configured, incase ETMA is installed select it under TA Modem Type and continue with the next steps.">Once the elevator has been configured, incase ETMA is installed select it under TA Modem Type and continue with the next steps.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Wait Until the elevator has been Configured.">Wait Until the elevator has been Configured.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Enter the received, CUBE mobile number via SMS.">Enter the received, CUBE mobile number via SMS.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Send SMS and enter SIM phone number.">Send SMS and enter SIM phone number.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Please Select CUBE">Please Select CUBE</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Wait Until the CUBE preparation gets done.">Wait Until the CUBE preparation gets done.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="G W-xx CUBE serial number. 2">G W-xx CUBE serial number.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In Secure Comm go to Approve. 3">In Secure Comm go to Approve.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In Commands go to Secure Comm">In Commands go to Secure Comm</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="In the Main Menu go to Commands. 2">In the Main Menu go to Commands.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Log in on the SMLCD.">Log in on the SMLCD.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Approve secure communication">Approve secure communication</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Wait until the Cube preparation gets done.">Wait until the Cube preparation gets done.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Select Ethernet and the correct Group / Lift ID and go to the next steps.">Select Ethernet and the correct Group / Lift ID and go to the next steps.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Select Controller Type, (SC1/SCX)">Select Controller Type, (SC1/SCX)</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="To which Controller your Cube is connected.">To which Controller your Cube is connected.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Select Elevator and go to the next step.">Select Elevator and go to the next step.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="For the installation type you are setting up">For the installation type you are setting up</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Click on &quot;Guided Mode&quot;">Click on "Guided Mode"</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Please select the cube you want to commission.">Please select the cube you want to commission.</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="If multiple cubes are found">If multiple cubes are found</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Click on &quot;Connect&quot;">Click on "Connect"</layer>
+</composition>
+<composition name="Steps in IoEE App Setup_2025-06">
+  <layer name="Enter the equipment number, check the address">Enter the equipment number, check the address</layer>
+</composition>
+</project>

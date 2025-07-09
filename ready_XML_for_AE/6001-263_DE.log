@@ -1,0 +1,100 @@
+=== LOG FOR: 6001-263_DE.xml ===
+Source XML: 6001-263.xml
+Translations JSON: Video_OST_DE.json
+Total Replaced: 82
+Missing Keys: 2
+Empty Layers: 0
+========================================
+
+=== REPLACED ===
+1. [OK] Repeat this steps [1 to 7] then for all floors. Once all done click on "Done" → Wiederholen Sie Schritt [1 bis 7] für alle Stockwerke. Wenn alles erledigt ist, tippen Sie auf „Fertig“.
+2. [OK] If the commissioned floor is successful then the Blue tooth Icon in the App turns to Green. → Wenn das Stockwerk erfolgreich in Betrieb gesetzt wurde, leuchtet das Bluetooth-Symbol in der App grün.
+3. [OK] If it is correct, Continue with the Confirm Button. → Fahren Sie nach fehlerfreiem Ablauf mit der Schaltfläche „Bestätigen“ fort.
+4. [OK] Check if the floor and side is correct. → Kontrollieren Sie, ob Stockwerk und Zugangsseite in Ordnung sind.
+5. [OK] Once the BLE beacon has been discovered it can be selected and click to "Assign" → Sobald das BLE erkannt wurde, können Sie es auswählen und auf „Zuweisen“ tippen.
+6. [OK] Once the BLE beacon has been discovered it can be selected and click to "Assign" → Sobald das BLE erkannt wurde, können Sie es auswählen und auf „Zuweisen“ tippen.
+7. [OK] Then click Done → Tippen Sie dann auf Fertig.
+8. [OK] For the integrated BLE module, 15 Seconds just after the teaching is done on the LOP the BLE module is triggered into commissioning mode. Select it. → Bei integriertem BLE-Modul wird 15 Sekunden nach Abschluss des Teach-in-Vorgangs auf dem LOP das BLE-Modul in den Inbetriebsetzungsmodus versetzt. Wählen Sie es aus.
+9. [OK] Activation of Fl X 500/600 LOP BLE Beacon to Commissioning mode. → Aktivierung des Inbetriebsetzungsmodus des BLE-Beacons für das LOP FI X 500/600.
+10. [OK] To configure the BLE, please bring the LOP into teaching mode, as per chapter 4 of this eLearning, → Um das BLE zu konfigurieren, schalten Sie das LOP gemäss Kapitel 4 dieses E-Learning-Dokuments in den Teach-in-Modus.
+11. [OK] Then go ahead with "Continue" → Fahren Sie anschliessend mit „Weiter“ fort.
+12. [OK] Check Equipment information on the app → Prüfen Sie die Anlageninformationen in der App.
+13. [OK] Then Click "Confirm" → Tippen Sie dann auf „Bestätigen“.
+14. [OK] Enter here the Equipment number of this elevator Manually or scan it. → Geben Sie hier die Anlagennummer dieses Aufzugs manuell ein, oder scannen Sie sie.
+15. [OK] Click on procedures → auf „Verfahren“.
+16. [OK] On the Overview screen → Tippen Sie auf der Übersichtsseite von
+17. [OK] iSpeci → iSPECI
+18. [OK] Start the mobile app, → Starten Sie die mobile App.
+19. [OK] Commissioning done, finish with left upper arrow or close the iSpeci → Die Inbetriebsetzung ist abgeschlossen. Schliessen Sie den Vorgang mit dem linken oberen Pfeil ab, oder beenden Sie iSpeci.
+20. [OK] To proceed click on "Finish" → Tippen Sie auf „Fertigstellen“, um fortzufahren.
+21. [OK] Once the changes are applied, iSpeci indicates that as successful. → Sobald die Änderungen übernommen wurden, markiert iSpeci diese als erfolgreich.
+22. [OK] Please Check and change all the parameters according to your needs and then click on "Configure". → Prüfen Sie alle Parameter, ändern Sie sie nach Bedarf und tippen Sie dann auf „Konfigurieren“.
+23. [OK] Hence these steps can be used as verification to check if the communication towards the display is working proper. → Mit diesen Schritten kann daher geprüft werden, ob die Kommunikation mit dem Display einwandfrei funktioniert.
+24. [OK] These steps are performed directly through the network towards the device. → Diese Schritte werden direkt über die Netzwerkverbindung zum Gerät ausgeführt.
+25. [OK] Link screen is successful, Click on Serial number to configure. → Der Bildschim wurde erfolgreich verknüpft. Tippen Sie auf Seriennummer, um die Konfiguration vorzunehmen.
+26. [OK] Link screen is successful, Click on Serial number to configure. → Der Bildschim wurde erfolgreich verknüpft. Tippen Sie auf Seriennummer, um die Konfiguration vorzunehmen.
+27. [OK] To restart the display disconnect the power plug behind the COP. → Um das Display neu zu starten, ziehen Sie den Netzstecker hinter dem COP ab.
+28. [OK] The QR code is only shown 1 hour after start. If QR code is not showing on a unconfigured device, restart the screen, then Scan the QR code. → Der QR-Code wird erst eine Stunde nach dem Start angezeigt. Wenn der QR-Code auf einem nicht konfigurierten Gerät nicht angezeigt wird, starten Sie den Bildschirm erneut und scannen Sie dann den QR-Code.
+29. [OK] Scan the QR code which is shown on the COP screen. → Scannen Sie den QR-Code, der auf dem COP-Bildschirm angezeigt wird.
+30. [OK] Click on "Link Screen Device". → Tippen Sie auf „Bildschirm verknüpfen“.
+31. [OK] Then go ahead with "Continue" → Fahren Sie anschliessend mit „Weiter“ fort.
+32. [OK] Check on this screen if equipment number, address and location are correct. → Prüfen Sie auf diesem Bildschirm, ob Anlagennummer, Adresse und Standort stimmen.
+33. [OK] Then Click "Confirm" → Tippen Sie dann auf „Bestätigen“.
+34. [OK] In Screen Configuration enter the Equipment number of this elevator Manually or scan it. → Geben Sie auf der Seite „Bildschirmkonfiguration“ die Anlagennummer dieses Aufzugs manuell ein, oder scannen Sie sie.
+35. [OK] In Procedures Click on Screen Configuration → Tippen Sie auf der Seite „Verfahren“ auf „Bildschirmkonfiguration“.
+36. [OK] In Procedures Click on Screen Configuration → Tippen Sie auf der Seite „Verfahren“ auf „Bildschirmkonfiguration“.
+37. [OK] Click on procedures → auf „Verfahren“.
+38. [OK] On the Overview screen → Tippen Sie auf der Übersichtsseite von
+39. [OK] iSpeci → iSPECI
+40. [OK] Start the mobile app, → Starten Sie die mobile App.
+41. [OK] The configuration is Completed. → Die Konfiguration ist abgeschlossen.
+42. [OK] This can take up to 5 minutes. → Dies kann bis zu 5 Minuten dauern.
+43. [OK] The numbers are written onto the ETMA. → Die Nummern werden in die ETMA geschrieben.
+44. [OK] In case the alarm calls should go directly to the customer, adapt them, else proceed. → Falls die Alarmrufe direkt an den Kunden gehen sollen, passen Sie sie an. Anderenfalls fahren Sie fort.
+45. [OK] The default numbers are loaded. → Die voreingestellten Nummern werden geladen.
+46. [OK] Make sure the Module Number matches to the Lift ID → Vergewissern Sie sich, dass die „Modulnummer“ zur Aufzugs-ID passt.
+47. [OK] Select TeleAlarm El. → Wählen Sie „Telealarm EI“.
+48. [OK] Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected. → Vergewissern Sie sich, dass TA-Modemtyp und Anlagennummer stimmen. Vergewissern Sie sich, dass der TA für die genannte Anlage angeschlossen ist.
+49. [OK] Make sure the TA Modem Type and the Equipment Number are correct confirm that the TA for above Equipment is connected. → Vergewissern Sie sich, dass TA-Modemtyp und Anlagennummer stimmen. Vergewissern Sie sich, dass der TA für die genannte Anlage angeschlossen ist.
+50. [OK] Click on the lower right arrow and proceed. → Tippen Sie auf den unteren rechten Pfeil und fahren Sie fort.
+51. [OK] In case of an ETMA installed, ADD TELEALARM and Proceed. → Wenn ETMA installiert ist, wählen Sie „TELEALARM HINZUFÜGEN“ und fahren Sie fort.
+52. [OK] 1st step CUBE Configuration is Done. → Der erste Schritt der CUBE-Konfiguration ist abgeschlossen.
+53. [OK] Please wait for configuration to get completed → Warten Sie, bis die Konfiguration abgeschlossen ist.
+54. [OK] Enable the Display devices in order to enable the display function within the Cube. → Aktivieren Sie die Option „Anzeigegeräte“, um die Anzeigefunktion innerhalb des Cubes zu aktivieren.
+55. [OK] ETM Detect Modem Success is expected, if failed, check the connection to the ETMA. → „ETM Detect Modem Success“ wird erwartet. Kontrollieren Sie bei Fehlern die Verbindung zu ETMA.
+56. [OK] In Commands ETM Detect mode "OK" → Unter „Commands ETM Detect mode“ „OK“
+57. [OK] In the Main Menu go to Commands. → Gehen Sie im Hauptmenü zu „Commands“.
+58. [OK] Log in on the SMLCD. → Melden Sie sich beim SMLCD an.
+59. [OK] Modem detection for ETMA. → Modemerkennung für ETMA.
+60. [OK] Once the elevator has been configured, incase ETMA is installed select it under TA Modem Type and continue with the next steps. → Sobald der Aufzug konfiguriert wurde und wenn ETMA montiert ist, wählen Sie ETMA unter TA-Modemtyp, und fahren Sie mit den nächsten Schritten fort.
+61. [OK] Wait Until the elevator has been Configured. → Warten Sie, bis der Aufzug konfiguriert wurde
+62. [OK] Enter the received, CUBE mobile number via SMS. → Geben Sie die empfangene CUBE-Mobilfunknummer per SMS ein.
+63. [OK] Send SMS and enter SIM phone number. → Wählen Sie „SMS senden“ und geben Sie die SIM-Telefonnummer ein.
+64. [OK] Please Select CUBE → Wählen Sie „CUBE“.
+65. [OK] Wait Until the CUBE preparation gets done. → Warten Sie, bis die CUBE-Vorbereitung abgeschlossen ist.
+66. [OK] G W-xx CUBE serial number. → G W-xx CUBE-Seriennummer
+67. [OK] In Secure Comm go to Approve. → Wählen Sie unter „Secure comm.“ die Option „Approve“.
+68. [OK] In Commands go to Secure Comm → Wählen Sie unter „Commands“ die Option „Secure comm.“.
+69. [OK] In the Main Menu go to Commands. → Gehen Sie im Hauptmenü zu „Commands“.
+70. [OK] Log in on the SMLCD. → Melden Sie sich beim SMLCD an.
+71. [OK] Approve secure communication → Sichere Kommunikation zulassen
+72. [OK] Wait until the Cube preparation gets done. → Warten Sie, bis die Cube-Vorbereitung abgeschlossen ist.
+73. [OK] Select Ethernet and the correct Group / Lift ID and go to the next steps. → Ethernet und die richtige Gruppen-/Aufzug-ID auswählen und mit den nächsten Schritten fortfahren.
+74. [OK] Select Controller Type, (SC1/SCX) → Wählen Sie den Steuerungstyp „(SC1/SCX)“ aus.
+75. [OK] To which Controller your Cube is connected. → Steuerung, mit der der Cube verbunden ist
+76. [OK] Select Elevator and go to the next step. → Wählen Sie „Aufzug“ aus und fahren Sie mit dem nächsten Schritt fort.
+77. [OK] For the installation type you are setting up → Für den Anlagentyp, den Sie einrichten:
+78. [OK] Click on "Guided Mode" → Tippen Sie auf „Geführter Modus“.
+79. [OK] Please select the cube you want to commission. → Wählen Sie den Cube aus, den Sie in Betrieb setzen möchten.
+80. [OK] If multiple cubes are found → Wenn mehrere Cubes gefunden werden:
+81. [OK] Click on "Connect" → Tippen Sie auf „Verbinden“.
+82. [OK] Enter the equipment number, check the address → Geben Sie die Anlagennummer ein, kontrollieren Sie die Adresse.
+
+=== MISSING ===
+1. [MISSING] Click here on ElevateMe Commissioning
+2. [MISSING] Click here on ElevateMe Commissioning
+
+=== EMPTY ===
+
+
+⏱ Duration: 0.00 seconds

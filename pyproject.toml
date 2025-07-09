@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aelocalizer"
+version = "0.1.0"
+description = "A tool to apply bilingual Artlist DOCX tables to XML files for After Effects"
+authors = ["Stefan_Work <szewnin@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "*" }]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+python-docx = "^1.2.0"
+matplotlib = "^3.10.3"
+questionary = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
